@@ -1,0 +1,6 @@
+{
+  "name": "Interactive 3D Creature Family",
+  "description": "Interactive hyper-realistic digital companion family with individual AI roles, distinct voices, and co-working intelligence on a warm wooden floor to alleviate loneliness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
